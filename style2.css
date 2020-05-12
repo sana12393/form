@@ -1,0 +1,38 @@
+body{
+    text-align:center;
+    background-image: url("imp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 150px;
+}
+nav i{
+    font-size: 100px;
+    border:1px solid blueviolet;
+    border-radius: 50%;
+}
+h1{
+    color:black;
+    font-size: xx-large;
+
+}
+
+input{
+
+    margin:7px;
+    text-align: center;
+    width:200px;
+    border-radius:25px;
+    height:40px;
+    border-color: blueviolet;
+
+
+}
+
+
+button{
+    padding:10px 20px;
+    color:black;
+    background-color: darkgrey;
+    border-radius:20px;
+}
